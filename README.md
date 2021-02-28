@@ -1,5 +1,5 @@
 ### Hello there 👋
-### 🔭 I’m currently working on This
+### 🔭 I’m currently working on some python problem solving.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gbdeveloping/gbdeveloping/">
