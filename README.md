@@ -1,4 +1,4 @@
-### -> gbd ⛤ ψ ⸸ �
+
 ### 🔭 Unity/Python/C++
 ## &#x1f4c8; GitHub Stats
 
