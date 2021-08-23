@@ -1,5 +1,5 @@
-### Hello there 👋
-### 🔭 I’m currently working on some python and c++ problem solving.
+### gbd ⛤ ψ ⸸ 👋
+### 🔭 Unity/Python/C++
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gbdvt/gbdvt/">
