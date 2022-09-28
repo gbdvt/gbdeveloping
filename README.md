@@ -1,6 +1,6 @@
 
-### 🔭 Unity/Python/C++
-### Don't have a lot of public projects rn, sorry
+### 🔭 gbd
+### 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gbdvt/gbdvt/">
